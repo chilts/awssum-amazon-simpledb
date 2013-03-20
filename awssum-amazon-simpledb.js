@@ -60,7 +60,7 @@ var SimpleDB = function(opts) {
 };
 
 // inherit from Amazon
-util.inherits(SimpleDB, amazon.Amazon);
+util.inherits(SimpleDB, amazon.AmazonSignatureV2);
 
 // --------------------------------------------------------------------------------------------------------------------
 // methods we need to implement from awssum.js/amazon.js
