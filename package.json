@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-simpledb",
-    "description" : "NodeJS module to talk to Amazon SimpleDB.",
+    "description" : "AwsSum plugin for Amazon SimpleDB.",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-simpledb.js",
